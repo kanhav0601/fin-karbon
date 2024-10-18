@@ -1,0 +1,19 @@
+{
+    "data": {
+        "financials": [
+            {
+                "nature": "STANDALONE",
+                "pnl": {
+                    "netRevenue": 60000000,
+                    "interestExpenses": 500000,
+                    "profitBeforeInterestAndTax": 8000000,
+                    "depreciation": 200000
+                },
+                "bs": {
+                    "shortTermBorrowings": 3000000,
+                    "longTermBorrowings": 7000000
+                }
+            }
+        ]
+    }
+}
